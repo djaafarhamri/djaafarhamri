@@ -7,9 +7,9 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
-[<img align="left" alt="djaafarhamri | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
-[<img align="left" alt="djaafarhamri | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][website]
-[<img align="left" alt="djaafarhamri | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][website]
+[<img align="left" alt="djaafarhamri | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="djaafarhamri | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="djaafarhamri | insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -30,3 +30,6 @@
 <br />
 
 [website]: github.com
+[instagram]: https://www.instagram.com/hamri_djaafar/
+[facebook]: https://www.facebook.com/djaafarhamri12
+[linkedin]: https://www.linkedin.com/in/djaafar-hamri-507a19213/
