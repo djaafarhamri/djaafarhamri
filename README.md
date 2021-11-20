@@ -20,7 +20,6 @@
 [<img align="left" alt="NODEJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />]
 [<img align="left" alt="EXPRESSJS" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" />]
 [<img align="left" alt="MONGODB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />]
-[<img align="left" alt="MATERIAL UI" width="26px" src="" />]
 [<img align="left" alt="JAVA" width="26px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />]
 [<img align="left" alt="GIT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />]
