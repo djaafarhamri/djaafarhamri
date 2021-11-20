@@ -10,7 +10,6 @@
 [<img align="left" alt="djaafarhamri | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [<img align="left" alt="djaafarhamri | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
 [<img align="left" alt="djaafarhamri | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
- <br />
 
 ### Languages and Tools:
 [<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />]
@@ -25,6 +24,5 @@
 [<img align="left" alt="GIT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />]
 [<img align="left" alt="PYTHON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />]
 [<img align="left" alt="MY SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />]
-<br />
-<br />
+
 
