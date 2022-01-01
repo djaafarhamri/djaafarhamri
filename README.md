@@ -25,7 +25,6 @@
 [<img align="left" alt="JAVA" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" />][website]
 [<img align="left" alt="GIT" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" />][website]
 [<img align="left" alt="Github" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />][website]
-[<img align="left" alt="bash" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/bash.svg" />][website]
 [<img align="left" alt="PYTHON" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" />][website]
 [<img align="left" alt="express" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" />][website]
 [<img align="left" alt="typescript" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" />][website]
