@@ -24,7 +24,6 @@
 [<img align="left" alt="GIT" width="30px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" />][website]
 [<img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />][website]
 [<img align="left" alt="NODEJS" width="30px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" />][website]
-[<img align="left" alt="express" width="30px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" />][website]
 [<img align="left" alt="JAVA" width="30px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" />][website]
 [<img align="left" alt="PYTHON" width="30px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" />][website]
 [<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" />][website]
