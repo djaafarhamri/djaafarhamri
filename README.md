@@ -34,6 +34,8 @@
 
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djaafarhamri)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: github.com
 [instagram]: https://www.instagram.com/hamri_djaafar/
 [facebook]: https://www.facebook.com/djaafarhamri12
