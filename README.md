@@ -22,12 +22,12 @@
 [<img align="left" alt="REACTJS" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" />][website]
 [<img align="left" alt="NODEJS" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" />][website]
 [<img align="left" alt="MONGODB" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" />][website]
-[<img align="left" alt="JAVA" width="70px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" />][website]
-[<img align="left" alt="GIT" width="65px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" />][website]
-[<img align="left" alt="PYTHON" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][website]
-[<img align="left" alt="MY SQL" width="50px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />][website]
-[<img align="left" alt="express" width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" />][website]
-[<img align="left" alt="typescript" width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" />][website]
+[<img align="left" alt="JAVA" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" />][website]
+[<img align="left" alt="GIT" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" />][website]
+[<img align="left" alt="PYTHON" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][website]
+[<img align="left" alt="MY SQL" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />][website]
+[<img align="left" alt="express" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" />][website]
+[<img align="left" alt="typescript" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" />][website]
 <br />
 <br />
 
