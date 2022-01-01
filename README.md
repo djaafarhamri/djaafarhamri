@@ -15,28 +15,27 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="40px" src="hhttps://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" />
-[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" />]
-[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" />]
-[<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"/>]
-[<img align="left" alt="REACTJS" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" />]
-[<img align="left" alt="NODEJS" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" />]
-[<img align="left" alt="MONGODB" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" />]
-[<img align="left" alt="JAVA" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" />]
-[<img align="left" alt="GIT" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" />]
-[<img align="left" alt="Github" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />]
-[<img align="left" alt="PYTHON" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" />]
-[<img align="left" alt="express" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" />]
-[<img align="left" alt="typescript" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" />]
-[<img align="left" alt="heroku" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg" />]
-[<img align="left" alt="figma" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" />]
-[<img align="left" alt="xd" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg" />]
-[<img align="left" alt="heroku" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg" />]
-[<img align="left" alt="tailwind" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" />]
+[<img align="left" alt="C" width="40px" src="hhttps://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" />][website]
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" />][website]
+[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" />][website]
+[<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"/>][website]
+[<img align="left" alt="REACTJS" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" />][website]
+[<img align="left" alt="NODEJS" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" />][website]
+[<img align="left" alt="MONGODB" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" />][website]
+[<img align="left" alt="JAVA" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" />][website]
+[<img align="left" alt="GIT" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" />][website]
+[<img align="left" alt="Github" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />][website]
+[<img align="left" alt="PYTHON" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" />][website]
+[<img align="left" alt="express" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" />][website]
+[<img align="left" alt="typescript" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" />][website]
+[<img align="left" alt="heroku" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg" />][website]
+[<img align="left" alt="figma" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" />][website]
+[<img align="left" alt="xd" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg" />][website]
+[<img align="left" alt="heroku" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg" />][website]
+[<img align="left" alt="tailwind" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" />][website]
 
 <br />
 <br />
-<!-- [<img align="left" alt="MY SQL" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />][website] -->
 [website]: github.com
 [instagram]: https://www.instagram.com/hamri_djaafar/
 [facebook]: https://www.facebook.com/djaafarhamri12
