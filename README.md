@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C" width="40px" src="hhttps://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" />]
+<img align="left" alt="C" width="40px" src="hhttps://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" />
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" />]
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" />]
 [<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"/>]
