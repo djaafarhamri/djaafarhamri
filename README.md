@@ -35,7 +35,7 @@
 [<img align="left" alt="tailwind" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" />][website]
 
 <br />
-<br />
+
 [website]: github.com
 [instagram]: https://www.instagram.com/hamri_djaafar/
 [facebook]: https://www.facebook.com/djaafarhamri12
