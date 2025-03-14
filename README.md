@@ -1,10 +1,7 @@
 ### Hi 👋 there, I'm DJAAFAR HAMRI
 
-## I'm a Full Stack Web Developer
+## I'm a Senior Full Stack Web Developer
 
-- 🔭 I’m currently working to improve my coding skill
-- 🌱 I’m currently learning anything that would pay off in the long run
-- 🥅 2023 Goals: get a job
 
 ### Connect with me:
 
